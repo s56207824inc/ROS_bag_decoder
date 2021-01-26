@@ -53,4 +53,4 @@ def pt_decoder(bag, output_dir):
 ```
 ## NOTE
 ---
-There are example for images and point cloud decode function in that python script and don't forget to import the necessary lib in the first
+There is an example for images and point cloud decode function in that python script and don't forget to import the necessary lib in the first

@@ -1,5 +1,9 @@
 # ROS_bag_decoder
 ---
+## impelement
+this repo impelement a extractor can extract data
+(ex. images, point cloud) from .bag file
+# 
 
 ## environment requirement
 
@@ -8,7 +12,7 @@
 ## rosbag decode procedures
 
 ### First.
-To see which is your targeted signal
+to see which is your targeted signal
 ```bash=
 rosbag info YOUR-ROS-FIlE
 ```
